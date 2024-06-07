@@ -6,7 +6,7 @@ def main():
     print('''
           \nselect the function from the options
           1.Add
-          2.Subtract
+          2.Subtraction
           ''')
     
     user_input = input("Select the functon")
